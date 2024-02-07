@@ -31,7 +31,7 @@ Favorite Resources
 Other resources on censored demand 
  *  Some papers
      * https://par.nsf.gov/servlets/purl/10066022
-     * https://www.researchgate.net/publication/4983095_Forecasting_Newspaper_Demand_with_Censored_Regression
+     * https://www.lancaster.ac.uk/stor-i-student-sites/tessa-wilkie/wp-content/uploads/sites/14/2020/03/Wilkie_RT1.pdf
      * https://arxiv.org/pdf/1810.09166.pdf#:~:text=There%20is%20a%20wide%20range%20of%20econometric%20models%20that%20has,negative%2C%20leading%20to%20zero%20purchases
      *  Has some good resources referenced, and attempts to use ML
  *  Blog posts
